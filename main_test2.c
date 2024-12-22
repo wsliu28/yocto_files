@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char *in_sentance;
+char in_sentance[64];
 
 extern void print_out(char *in_string);
 
