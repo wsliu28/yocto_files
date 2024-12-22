@@ -8,7 +8,7 @@ int main()
 {
     printf("Please input what you say\n");
     scanf("%s", in_sentance);
-    print_out(in_sentance)
+    print_out(in_sentance);
    
     return 0;
 }
